@@ -2,6 +2,7 @@
  import { Comp0 } from './components/comp0.jsx'
 import { Comp1 } from './components/comp1.jsx'
 import { Comp2 } from './components/comp2.jsx'
+
 import { Comp3 } from './components/comp3.jsx'
 import { Comp4 } from './components/comp4.jsx'
 import { Comp5 } from './components/comp5.jsx'
