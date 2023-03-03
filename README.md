@@ -1,4 +1,4 @@
-# Parcel vs Vite vs Turbopack HMR Benchmark
+# Rspack vs Parcel vs Vite vs Turbopack HMR Benchmark
 
 > _Based on [this benchmark](https://github.com/yyx990803/vite-vs-next-turbo-hmr) by Evan You, creator of Vite._
 
